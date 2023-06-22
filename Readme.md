@@ -25,6 +25,7 @@ The task this repo is solving is the following
 1) Python 3.11 (3.7+ should work fine)
 2) Pipenv 2023.2.18
 ### Start
+`pipenv install`
 `uvicorn main:app --reload`
 ### Tests
 `python -m unittest`
